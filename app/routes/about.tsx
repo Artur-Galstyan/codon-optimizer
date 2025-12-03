@@ -6,10 +6,6 @@ export default function About() {
         After years of Svelte - and the occasional Qwik and Astro - I finally
         enter the world of React once more.
       </p>
-      <p>
-        Like a newborn giraffe calf, wobbly legs, but within a few weeks, I will
-        be the most majestic giraffe ever!
-      </p>
       <h2>So what exactly is the stack for this app?</h2>
       <p>
         Well, in the world of Svelte, you just have SvelteKit and that's it, but

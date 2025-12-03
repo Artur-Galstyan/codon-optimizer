@@ -1,6 +1,7 @@
 import { Outlet } from "react-router";
 import { Analytics } from "@vercel/analytics/react";
 import { FaGithubSquare } from "react-icons/fa";
+
 export default function BaseLayout() {
   return (
     <main className="w-[80%] md:w-[60%] mx-auto my-20">
